@@ -1,4 +1,6 @@
-Add to profile:
+# Todo
+
+### Add to profile:
 - Resume
 - Contact page
 - Accomplishments
