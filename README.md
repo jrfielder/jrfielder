@@ -12,7 +12,7 @@ I design and build intelligent systems at the intersection of **embedded enginee
 - IoT & Sensor-Based Systems 🌐
 - Robotics & Autonomous Systems 🚗
 - Blockchain & Distributed Systems
-
+- Game Development & Interactive Systems 🎮
 ---
 
 ### 📚 Currently Learning
