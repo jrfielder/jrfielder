@@ -1,4 +1,4 @@
-# Hi, I’m @jrfielder 👋
+#
 
 ### 🚀 What I Do
 I design and build intelligent systems at the intersection of **embedded engineering, RF systems, and data science** — turning real-world signals into actionable insights.
@@ -25,7 +25,6 @@ I design and build intelligent systems at the intersection of **embedded enginee
 ---
 
 ### 🛠️ Technical Focus
-- Signal Processing → Data → Intelligent Decision Systems
 - Sensor Integration & Real-Time Control
 - ML-driven anomaly detection & automation
 - End-to-end system design (hardware → firmware → analytics)
